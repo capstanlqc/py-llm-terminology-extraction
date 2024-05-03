@@ -1,0 +1,6 @@
+[omegat]
+
+jrebin_fpath = "/home/souto/.sdkman/candidates/java/11.0.19-tem"
+omegat_jpath = "/opt/omegat/OmegaT_5.7.2/OmegaT.jar"
+config_dpath = "/home/souto/.omegat_572" 
+script_fpath = "/home/souto/.omegat_572/scripts/write_project2excel2.groovy"
